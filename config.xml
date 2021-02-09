@@ -1,0 +1,21 @@
+<GMS>
+    <!-- #1-->
+    <App>
+        <Chrome>on</Chrome>
+        <Gallery>on</Gallery>
+        <Messaging>on</Messaging>
+        <Calendar>on</Calendar>
+        <Email>on</Email>
+        <Keyboard>on</Keyboard>
+        <Voice_assistant>on</Voice_assistant>
+        <Search>on</Search>
+    </App>
+    <!-- #2-->
+    <Fingerprinter>on</Fingerprinter>
+    <!-- #3-->
+    <Relevant_version_check>on</Relevant_version_check>
+    <!-- #4-->
+    <notch_check>on</notch_check>
+    <!-- #5-->
+    <SDK_version_check>on</SDK_version_check>
+</GMS>
